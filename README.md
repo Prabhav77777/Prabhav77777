@@ -54,14 +54,14 @@ I'm a **Computer Science & Applied Mathematics** undergraduate at **IIIT Delhi**
 <tr>
 <td width="50%">
 
-**[🤖 AI Code Review Assistant](https://github.com/Prabhav77777/ai-code-review-assistant)**
+**[🤖 AI Code Review Assistant](https://github.com/Prabhav77777/AI-Code-Review)**
 AI-powered code review platform automating syntax validation, optimization feedback, and best-practice recommendations via LLM APIs. FastAPI backend, deployed on Vercel + Render.
 `Python` `FastAPI` `JavaScript` `LLM APIs`
 
 </td>
 <td width="50%">
 
-**[🚇 Delhi Metro Route & Schedule Simulator](https://github.com/Prabhav77777/delhi-metro-simulator)**
+**[🚇 Delhi Metro Route & Schedule Simulator](https://github.com/Prabhav77777/Metro-Schedule-Simulator)**
 Graph-based transit simulator for Delhi Metro's Blue, Red, and Magenta lines — route planning, interchange detection, fare & travel-time calculation via shortest-path algorithms.
 `Python`
 
@@ -70,14 +70,14 @@ Graph-based transit simulator for Delhi Metro's Blue, Red, and Magenta lines —
 <tr>
 <td width="50%">
 
-**[⚙️ RISC-V Assembler](https://github.com/Prabhav77777/riscv-assembler)**
+**[⚙️ RISC-V Assembler](https://github.com/Prabhav77777/RV32I-Assembler-in-Python)**
 Custom RV32I assembler translating assembly into 32-bit machine code — supports R, I, S, B, U, J formats with label offsets, branching, and full syntax/error validation.
 `Python`
 
 </td>
 <td width="50%">
 
-**[🖥️ RISC-V Simulator](https://github.com/Prabhav77777/riscv-simulator)**
+**[🖥️ RISC-V Simulator](https://github.com/Prabhav77777/RV32I-Simulator-in-Python-)**
 RV32I instruction simulator with register file, RAM, branching flags, and PC management — includes trace debugging and memory dump support.
 `Python`
 
@@ -98,7 +98,8 @@ RV32I instruction simulator with register file, RAM, branching flags, and PC man
 ### 🎖️ Certificates & Recognition
 
 <div align="center">
-  <img src="./assets/certificate_byld_hackathon.png" width="500" alt="BYLD Hackathon Certificate of Achievement - Dimaag Ka Dahi, Software Track Finalist"/>
+  <img width="1771" height="1257" alt="certificate_byld_hackathon" src="https://github.com/user-attachments/assets/6700e258-c60a-4333-aca7-16936f0f380f" />
+
 </div>
 
 <p align="center"><i>BYLD ORBIX Hackathon (IIIT Delhi) — Shortlisted in the Final Round, Software Track, as part of team "Dimaag Ka Dahi"</i></p>
