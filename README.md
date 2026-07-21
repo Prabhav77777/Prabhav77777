@@ -1,70 +1,117 @@
-<h1 align="center">Hi 👋, I'm Prabhav</h1>
-<h3 align="center">Building things with code — from RISC-V simulators to AI-powered dev tools</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Developer;RISC-V+%26+Systems+Enthusiast;AI%2FML+Tinkerer;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prabhav+Agrawal;CS+%26+Applied+Math+Student;Building+at+the+Systems+%2B+AI+Layer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/Prabhav77777?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-9-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Prabhav77777?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-3-yellow?style=for-the-badge" />
-  </a>
-</p>
+</div>
 
----
+<div align="center">
 
-### 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhav-agrawal-479971378)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhavagrawal2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prabhav77777)
 
-- 💻 I enjoy building tools that make development and daily life easier — from AI code reviewers to carbon footprint trackers
-- 🧠 Deep dive into computer architecture: I've built both an **assembler** and a **simulator** for the RV32I RISC-V instruction set
-- 🤖 Exploring the intersection of AI and developer tooling
-- 🌱 Currently learning and experimenting with new frameworks and low-level systems concepts
-- 📫 Reach me via my [GitHub profile](https://github.com/Prabhav77777)
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prabhav77777&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
-### 🛠️ Featured Projects
+### 👨‍💻 About Me
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| [🤖 AI-Code-Review](https://github.com/Prabhav77777/AI-Code-Review) | AI-powered code review tool that analyzes pasted code and returns issues, suggestions, and an optimized version | `FastAPI` `Llama 3.3 70B (Groq)` `JavaScript` |
-| [🚇 Metro-Schedule-Simulator](https://github.com/Prabhav77777/Metro-Schedule-Simulator) | Simulates metro scheduling logic | `Python` |
-| [⚙️ RV32I-Assembler-in-Python](https://github.com/Prabhav77777/RV32I-Assembler-in-Python) | RISC-V RV32I assembler converting assembly to 32-bit machine code, with label handling, syntax validation, and branch offset resolution | `Python` |
-| [🖥️ RV32I-Simulator-in-Python](https://github.com/Prabhav77777/RV32I-Simulator-in-Python-) | RV32I simulator executing 32-bit RISC-V machine code with register/memory support, branching, instruction tracing, and memory dumps | `Python` |
-| [🌿 GreenIQ](https://github.com/Prabhav77777/GreenIQ) | Tracks and visualizes your carbon footprint | `JavaScript` |
-| [🧮 Calculator-using-streamlit](https://github.com/Prabhav77777/Calculator-using-streamlit) | A calculator app built with Streamlit | `Python` |
+I'm a **Computer Science & Applied Mathematics** undergraduate at **IIIT Delhi**, building projects that span from low-level computer architecture to AI-powered developer tools.
+
+- 🎓 B.Tech in CSAM at IIIT Delhi (Class of 2029) — CGPA 8.2/10
+- ⚙️ Deep interest in **systems programming** — I've built both an assembler and a simulator for the RV32I RISC-V ISA
+- 🤖 Working at the intersection of **LLMs and application development**
+- 🧩 Active member of **BYLD (Software Development Club)** and the **Undergraduate Research Club** at IIIT Delhi
+- 🌱 Currently sharpening my C++ and DSA fundamentals alongside AI application development
 
 ---
 
-### 🧰 Languages & Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=for-the-badge&logo=fastapi)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[🤖 AI Code Review Assistant](https://github.com/Prabhav77777/ai-code-review-assistant)**
+AI-powered code review platform automating syntax validation, optimization feedback, and best-practice recommendations via LLM APIs. FastAPI backend, deployed on Vercel + Render.
+`Python` `FastAPI` `JavaScript` `LLM APIs`
+
+</td>
+<td width="50%">
+
+**[🚇 Delhi Metro Route & Schedule Simulator](https://github.com/Prabhav77777/delhi-metro-simulator)**
+Graph-based transit simulator for Delhi Metro's Blue, Red, and Magenta lines — route planning, interchange detection, fare & travel-time calculation via shortest-path algorithms.
+`Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[⚙️ RISC-V Assembler](https://github.com/Prabhav77777/riscv-assembler)**
+Custom RV32I assembler translating assembly into 32-bit machine code — supports R, I, S, B, U, J formats with label offsets, branching, and full syntax/error validation.
+`Python`
+
+</td>
+<td width="50%">
+
+**[🖥️ RISC-V Simulator](https://github.com/Prabhav77777/riscv-simulator)**
+RV32I instruction simulator with register file, RAM, branching flags, and PC management — includes trace debugging and memory dump support.
+`Python`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Google Hack2Skills Prompt Wars Challenge 3** — All India Rank 108 out of 34,265 participants (Top 0.32%)
+- 🏅 **BYLD 18-Hour Hackathon** — Top 6 Finalist (Team "Dimag Ka Dahi"), presented a Migraine Predictor AI application
+- 📘 **JEE Main 2025** — All India Rank 12,000 among 1M+ candidates
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prabhav77777&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhav77777&layout=compact&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhav77777&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhav77777&theme=minimal&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
-<p align="center">
-  <i>Thanks for stopping by! ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate.</i>
-</p>
+<div align="center">
+  <i>📌 CS & Applied Math @ IIIT Delhi — always open to interesting collaborations. Reach out on LinkedIn or email!</i>
+</div>
