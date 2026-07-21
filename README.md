@@ -89,7 +89,7 @@ RV32I instruction simulator with register file, RAM, branching flags, and PC man
 
 ### 🏆 Achievements
 
-- 🥇 **Google Hack2Skills Prompt Wars Challenge 3** — All India Rank 108 out of 34,265 participants (Top 0.32%)
+- 🥇 **Google Hack2Skills Prompt Wars Challenge 3** — All India Rank 54 out of 34,265 participants (Top 0.32%)
 - 🏅 **BYLD 18-Hour Hackathon** — Top 6 Finalist (Team "Dimag Ka Dahi"), presented a Migraine Predictor AI application
 - 📘 **JEE Main 2025** — All India Rank 12,000 among 1M+ candidates
 
