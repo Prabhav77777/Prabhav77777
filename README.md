@@ -95,6 +95,29 @@ RV32I instruction simulator with register file, RAM, branching flags, and PC man
 
 ---
 
+### 🎖️ Certificates & Recognition
+
+<div align="center">
+  <img src="./assets/certificate_byld_hackathon.png" width="500" alt="BYLD Hackathon Certificate of Achievement - Dimaag Ka Dahi, Software Track Finalist"/>
+</div>
+
+<p align="center"><i>BYLD ORBIX Hackathon (IIIT Delhi) — Shortlisted in the Final Round, Software Track, as part of team "Dimaag Ka Dahi"</i></p>
+
+---
+
+### 📬 Contact Me
+
+<div align="center">
+
+| | |
+|---|---|
+| 💼 **LinkedIn** | [linkedin.com/in/prabhav-agrawal-479971378](https://www.linkedin.com/in/prabhav-agrawal-479971378) |
+| 📧 **Email** | [prabhavagrawal2007@gmail.com](mailto:prabhavagrawal2007@gmail.com) |
+
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
