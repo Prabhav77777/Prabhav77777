@@ -7,6 +7,14 @@
  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
 
 ================================================================================
+ ██████╗ ██████╗  █████╗ ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
+ ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔══██╗██║   ██║
+ ██████╔╝██████╔╝███████║██████╔╝███████║███████║██║   ██║
+ ██╔═══╝ ██╔══██╗██╔══██║██╔══██╗██╔══██║██╔══██║╚██╗ ██╔╝
+ ██║     ██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║ ╚████╔╝
+ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
+
+================================================================================
 .     .........................................................................................................................................................................................................................................  .......................
 ........................................  ................................................... ................................... ............................................................................................................ ............ ............
 ........................................................................................................................................................................................................................................................................
@@ -173,7 +181,7 @@
                                                                                                                                                                                                                                                                         
                                                                                                                                                                                                                                                                         
                                                                                                     
-
+================================================================================
 
                                   prabhav@github
 --------------------------------------------------------------------------------
@@ -197,6 +205,7 @@ Languages............. C++
 
 Frameworks............ React
 ...................... FastAPI
+...................... Streamlit
 
 Learning.............. Machine Learning
 ...................... Artificial Intelligence
@@ -207,13 +216,14 @@ Hobbies............... AI Engineering
 ...................... Gaming
 ...................... Hackathons
 
-Projects.............. AI Code Review
-...................... Dial2AI
-...................... RV32I Simulator
-...................... Metro Schedule Simulator
+Projects............... SignBridge (ASL-to-Speech AI)
+....................... AI Code Review
+....................... Dial2AI
+....................... RV32I Simulator
+....................... Metro Schedule Simulator
 
 GitHub................ github.com/Prabhav77777
-Contact...............prabhavagrawal@example.com
+Contact............... prabhavagrawal@example.com
 
 Status................ Building projects, learning every day.
 
@@ -227,6 +237,10 @@ I'm **Prabhav Agrawal**, a B.Tech CSAM student at **IIIT Delhi** who enjoys buil
 ---
 
 # 🚀 Featured Projects
+
+### 🤟 SignBridge
+Real-time assistive app that translates ASL fingerspelling into spoken English — MediaPipe hand tracking + a Random Forest classifier + Gemini for language cleanup + text-to-speech, deployed live on Streamlit Community Cloud.
+[`Live demo`](https://merai-internship-projects-6bv6pqfn6xojfxelonpxyb.streamlit.app/) · [`Source`](https://github.com/Prabhav77777/MerAi-internship-Projects/tree/main/CAPSTONE%20PROJECT/SIGN_BRIDGE)
 
 ### 🤖 AI Code Review
 AI-powered code review platform using Groq API and Llama models.
@@ -245,7 +259,7 @@ Simulation project developed using C++.
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,fastapi,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,fastapi,streamlit,git,github,vscode" />
 </p>
 
 ---
@@ -259,8 +273,6 @@ Simulation project developed using C++.
 <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Prabhav77777&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
-
----
 
 ---
 
@@ -299,4 +311,3 @@ Simulation project developed using C++.
 *"Code • Learn • Build • Repeat"*
 
 </div>
-````
